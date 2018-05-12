@@ -5,6 +5,7 @@ another_dict = {}
 print(example_dic['b'])
 print(example_dic.get('c'))
 
+
 example_list = ['a', 'b', 'c', 'd', 'e', 'f']
 
 # tuple type
