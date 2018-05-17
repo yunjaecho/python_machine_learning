@@ -7,4 +7,3 @@ def example_function(param):
 
 example_function("first")
 example_function("second")
-print(inner)
